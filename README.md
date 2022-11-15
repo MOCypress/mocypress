@@ -1,2 +1,2 @@
 # mocypress
-The Core Product of MoCypress Org. is mo-cypress Typescript Codebase and this will be Maintain as Private repository
+The core product of mocypress and bundle of extentions and addons will reprecent with project
