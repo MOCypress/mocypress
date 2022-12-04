@@ -1,2 +1,2 @@
 # mocypress
-The core product of mocypress and bundle of extentions and addons will reprecent with project
+MoCypress is the better version of http://Cypress.io, for Test Engineers and simplified TypeScript based platforms to make effective and reliable test scripting.
