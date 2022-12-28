@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/MOCypress/mocypress/issues"
   },
-  "homepage": "https://github.com/MOCypress/mocypress#readme"
+  "homepage": "https://github.com/MOCypress/mocypress#readme",
+  "dependencies": {
+    "@mocypress/mocypress-ui-core": "^1.0.0"
+  }
 }
