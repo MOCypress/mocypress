@@ -4,8 +4,8 @@
   "description": "The core product of mocypress and bundle of extentions and addons will reprecent with project",
   "main": "index.js",
   "scripts": {
-    "test": "mocha './target/index.js'",
-    "bszfduild": "tsc -p ."
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@MOCypress/"
