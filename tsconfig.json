@@ -9,8 +9,6 @@
     "outDir": "dist",
     "strict": true,
     "types": [
-      "cypress",
-      "cypress-xpath"
     ],
     "skipLibCheck": true,
     "isolatedModules": true,
