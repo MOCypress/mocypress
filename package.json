@@ -2,7 +2,7 @@
   "name": "@mocypress/mocypress",
   "version": "1.0.0",
   "description": "The core product of mocypress and bundle of extentions and addons will reprecent with project",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p ."
