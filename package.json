@@ -8,7 +8,7 @@
     "build": "tsc -p ."
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@MOCypress/"
+    "registry": "https://npm.pkg.github.com/@MOCypress"
   },
   "keywords": [
     "mocypress",
@@ -22,6 +22,6 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "@mocypress/mocypress-ui-core": "^1.0.2"
+    "@mocypress/mocypress-ui-core": "^1.0.7"
   }
 }
