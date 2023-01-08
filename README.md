@@ -61,6 +61,7 @@ npm mocypress open
 ## Why MOCypress is better?
 MOCypress is an Object-Oriented flavor of the Cypress for Test Engineers and Its facilitating cypress scripting workaround for non-technical testers to perform test automation  with more productive and efficient manner. This is all in one solution for every organization to drive you project with non-technical test team align with global tech evolution.
 
+
 ![installing-cli e1693232](https://user-images.githubusercontent.com/1271364/31740846-7bf607f0-b420-11e7-855f-41c996040d31.gif)
 
 
