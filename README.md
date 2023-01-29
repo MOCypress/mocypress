@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.mocypress.com">
+  <a href="https://www.mocypress.com" >
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="./src/resources/bin/mocypress-logos.png">
       <source media="(prefers-color-scheme: light)" srcset="./src/resources/bin/mocypress-logos.png">
