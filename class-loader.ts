@@ -1,2 +1,2 @@
-import {Button, TextField} from "../mocypress-ui-core/class-loader"
-export { Button , TextField }
+import {Button, TextField , Method} from "../mocypress-ui-core/class-loader"
+export { Button , TextField , Method}
